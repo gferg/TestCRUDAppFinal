@@ -7,7 +7,7 @@ Used technologies:
 - Spring 
 - Vaadin
 
-How to run application:
+How to use:
 - Run 'db_creation.sql' script
 - Open project using Intellij IDEA
 - Start web application
