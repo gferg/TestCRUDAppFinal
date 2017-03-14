@@ -8,7 +8,7 @@ Used technologies:
 - Vaadin
 
 How to use:
-- Run 'db_creation.sql' file
+- Run 'db_creation.sql' script
 - Open project using Intellij IDEA
 - Start web application
 - DB user/password - root/root
