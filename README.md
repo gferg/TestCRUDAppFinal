@@ -18,5 +18,6 @@ Functionality:
 - Adding user to DB
 - Updating user information
 - Removing user from DB
+- Searching user by name
 - Pagination(beta), currently replaced by scrolling. How to fix: migrate from Vaadin 8 to Vaadin 7/6
   and use 'PagedTable' https://vaadin.com/directory#!addon/pagedtable.
