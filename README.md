@@ -11,6 +11,8 @@ How to use:
 - Run 'db_creation.sql' file
 - Open project using Intellij IDEA
 - Start web application
+- DB user/password - root/root
+- URL - http://localhost:8080/
 
 Functionality:
 - Adding user to DB
