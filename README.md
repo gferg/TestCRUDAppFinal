@@ -6,6 +6,7 @@ Used technologies:
 - Hibernate 
 - Spring 
 - Vaadin
+- Maven
 
 How to use:
 - Run 'db_creation.sql' script
